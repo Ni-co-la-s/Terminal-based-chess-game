@@ -10,4 +10,5 @@ The program uses 4 main classes: Square, Piece (and all inheriting classes) Ches
 Error messages are not always accurate (condititions are to be reviewed)
 
 Here is an example of an ongoing game
+
 <img width="248" alt="chess" src="https://user-images.githubusercontent.com/96898279/198717327-9cf5e511-3f00-4d8e-8fec-ae3b88e9f060.PNG">
